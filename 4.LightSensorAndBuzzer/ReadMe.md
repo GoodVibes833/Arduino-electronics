@@ -13,6 +13,12 @@
 
 - less light -> more R -> high sound
 
+
+
+### # image
+
+![lightandBuzzer](lightandBuzzer.png)
+
 ### # video
 
 <video src="lightsensor_buzzer.mp4"></video>

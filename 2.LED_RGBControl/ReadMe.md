@@ -12,6 +12,10 @@
 
 
 
+### # image
+
+![RGB_img](RGB_img.png)
+
 ### # video
 
 <video src="RGB_control.mp4"></video>

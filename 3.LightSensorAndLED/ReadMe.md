@@ -16,6 +16,10 @@
 
 
 
+### # image
+
+![light_sensor](light_sensor.png)
+
 ### # video
 
 <video src="LightSensor_LED.mp4"></video>
